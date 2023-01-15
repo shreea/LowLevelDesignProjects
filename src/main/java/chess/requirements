@@ -1,0 +1,17 @@
+online platform for chess
+
+users -> create a new game -> new chess board will open
+-> option to play against bot, human
+-> 8 * 8 size
+-> pieces -knight, rook
+-> rules
+ valid moves, check for invalid moves
+-> only two players
+-> checkmate
+-> winner
+
+user
+
+game
+
+
